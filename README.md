@@ -14,4 +14,4 @@ Module 2018             | Refactored 2018
 :----------------------:|:----------------------------:
 ![Module 2018 Stocks](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Module_timer_2018.png)|![Refactored Code 2018](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 Module 2017             | Refactored 2017
-![Module 2017 stocks](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Module_Timer_2017.png)|![Refactored Code 2017](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Module_Timer_2017.png)
+![Module 2017 stocks](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Module_Timer_2017.png)|![Refactored Code 2017](https://github.com/Tyfox1206/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
